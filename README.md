@@ -1,4 +1,2 @@
 # json2struct
-###自用（只支持json）
-json转struct
-对json接口用
+##这是第二版本留坑
